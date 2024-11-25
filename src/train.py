@@ -7,8 +7,8 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 import pickle
 
-# Defino parámetros --> La mejor práctica es hacerlo en un fichero aparte.
-# Pero por simplicidad incluyo todo junto,
+#Defino parámetros --> La mejor práctica es hacerlo en un fichero aparte.
+#Pero por simplicidad incluyo todo junto,
 test_size = 0.2
 
 # Load data
